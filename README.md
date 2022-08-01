@@ -21,7 +21,7 @@
 
 ### Code Editors I Love <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/red-heart_2764-fe0f.png" height="20px" width="20px"/>
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60px" height="60px"/>](https://code.visualstudio.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/75px-Visual_Studio_Code_1.35_icon.svg.png" width="60px" height="60px"/>](https://code.visualstudio.com/)
 [<img src="https://user-images.githubusercontent.com/19266929/129100645-5d54330e-e8ee-4074-92be-734a094bace9.png" width="60px" height="60px"/>](https://www.jetbrains.com/idea/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="60px" height="60px"/>](https://www.jetbrains.com/pycharm/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" width="60px" height="60px"/>](https://jupyter.org/)
