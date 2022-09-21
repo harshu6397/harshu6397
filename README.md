@@ -3,11 +3,14 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshu6397&label=Profile%20views&color=0e75b6&style=flat" alt="harshu6397" /> </p>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning and Web Development**
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
+![HTML](https://img.shields.io/badge/HTML-Expert-orange)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![ReactJS](https://img.shields.io/badge/RractJS-Intermediate-lightgrey)
 
+- 🌱 I’m currently learning **Machine Learning and Web Development**
 - 📫 How to reach me **harshkumarkardam258@gmail.com**
-
-- ⚡ Fun fact **I think I'm Curious about new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
